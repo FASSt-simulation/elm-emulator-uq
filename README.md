@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18645784.svg)](https://doi.org/10.5281/zenodo.18645784)
+
 # UQ Framework for E3SM Land Model (ELM) — Code to Reproduce Figures
 
 This repository contains scripts and notebooks used to train Gaussian-process (GP) emulators, perform Bayesian calibration, and reproduce figures for the manuscript:
@@ -52,4 +54,5 @@ This repository contains scripts and notebooks used to train Gaussian-process (G
   → Probabilistic prediction using calibrated parameters across observables for specific site; reproduce **Fig. 10** and **SI Figs. S4 & S8**
 
 ---
+
 
